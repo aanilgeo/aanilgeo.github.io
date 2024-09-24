@@ -12,9 +12,10 @@ This portfolio website is built to highlight my skills, projects, and experience
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: React, Tailwind CSS
+- **Frontend**: TypeScript, React, Tailwind CSS
+- **Backend**: Node.js (environment setup and package management)
 - **Deployment**: GitHub Pages
-- **Other Tools**: React Router, TypeScript, Git
+- **Other Tools**: React Router, Git
 
 ## ⚙️ Installation
 
