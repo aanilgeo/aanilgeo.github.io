@@ -28,7 +28,7 @@ const Home: React.FC = () => {
           LinkedIn
         </a>
         <a
-          href="/resume"
+          href="#/resume"
           className="px-6 py-2 bg-gray-200 dark:bg-gray-900 text-gray-900 dark:text-gray-100 rounded-full transition-transform duration-300 hover:scale-110 hover:shadow-lg"
         >
           Resume
