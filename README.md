@@ -1,6 +1,6 @@
 # Portfolio Website
 
-Welcome to my personal portfolio! This website showcases my work, skills, and experience as a Computer Science student and aspiring software developer.
+Welcome to my personal portfolio!
 
 ## 🚀 Live Demo
 
