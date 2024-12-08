@@ -12,13 +12,13 @@ const WorkExperience: React.FC = () => {
         {/* Experience 1: Software Engineering Intern at Jacobs */}
         <div className="bg-white dark:bg-gray-900 shadow-md p-4 rounded-lg flex items-center space-x-4 justify-start transition-transform duration-300 hover:scale-105 hover:shadow-lg">
           <img
-            src={getCompanyLogo('jacobs.com')}
-            alt="Jacobs Logo"
+            src={getCompanyLogo('honeywell.com')}
+            alt="Honeywell Logo"
             className="h-12 w-12 object-contain"
           />
           <div className="text-left">
             <h2 className="text-xl font-semibold text-gray-800 dark:text-white">
-              Software Engineering Intern
+              Incoming Software Engineer Co-op
             </h2>
             <h3 className="text-gray-700 dark:text-gray-300">Jacobs</h3>
             <h4 className="text-gray-500 dark:text-gray-400">Kennedy Space Center, FL</h4>
@@ -26,7 +26,24 @@ const WorkExperience: React.FC = () => {
           </div>
         </div>
 
-        {/* Experience 2: Generative AI Extern at Cognizant */}
+        {/* Experience 2: Software Engineer Intern at Jacobs */}
+        <div className="bg-white dark:bg-gray-900 shadow-md p-4 rounded-lg flex items-center space-x-4 justify-start transition-transform duration-300 hover:scale-105 hover:shadow-lg">
+          <img
+            src={getCompanyLogo('jacobs.com')}
+            alt="Jacobs Logo"
+            className="h-12 w-12 object-contain"
+          />
+          <div className="text-left">
+            <h2 className="text-xl font-semibold text-gray-800 dark:text-white">
+              Software Engineer Intern
+            </h2>
+            <h3 className="text-gray-700 dark:text-gray-300">Jacobs</h3>
+            <h4 className="text-gray-500 dark:text-gray-400">Kennedy Space Center, FL</h4>
+            <p className="text-gray-500 dark:text-gray-400">June 2024 - August 2024</p>
+          </div>
+        </div>
+
+        {/* Experience 3: Generative AI Extern at Cognizant */}
         <div className="bg-white dark:bg-gray-900 shadow-md p-4 rounded-lg flex items-center space-x-4 justify-start transition-transform duration-300 hover:scale-105 hover:shadow-lg">
           <img
             src={getCompanyLogo('cognizant.com')}
@@ -43,7 +60,7 @@ const WorkExperience: React.FC = () => {
           </div>
         </div>
 
-        {/* Experience 3: Student Technician at NJIT */}
+        {/* Experience 4: Student Technician at NJIT */}
         <div className="bg-white dark:bg-gray-900 shadow-md p-4 rounded-lg flex items-center space-x-4 justify-start transition-transform duration-300 hover:scale-105 hover:shadow-lg">
           <img
             src={getCompanyLogo('njit.edu')}
