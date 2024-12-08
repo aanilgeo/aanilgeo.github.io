@@ -20,9 +20,9 @@ const WorkExperience: React.FC = () => {
             <h2 className="text-xl font-semibold text-gray-800 dark:text-white">
               Incoming Software Engineer Co-op
             </h2>
-            <h3 className="text-gray-700 dark:text-gray-300">Jacobs</h3>
-            <h4 className="text-gray-500 dark:text-gray-400">Kennedy Space Center, FL</h4>
-            <p className="text-gray-500 dark:text-gray-400">June 2024 - August 2024</p>
+            <h3 className="text-gray-700 dark:text-gray-300">Honeywell</h3>
+            <h4 className="text-gray-500 dark:text-gray-400">Mason, OH</h4>
+            <p className="text-gray-500 dark:text-gray-400">Expected January 2025 - May 2025</p>
           </div>
         </div>
 
