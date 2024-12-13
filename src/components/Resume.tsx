@@ -2,7 +2,7 @@ import React from 'react';
 import Navbar from './Navbar'; 
 
 const Resume: React.FC = () => {
-  const googleDriveLink = 'https://drive.google.com/file/d/1dAPRL7Xs9CwcNZm2C9QawEHDGgtxrOg3/preview';
+  const googleDriveLink = 'https://drive.google.com/file/d/1xxSRuyKDJvo6k4dyXnOR4iEPhZbDGClw/preview';
   return (
     <>
       <Navbar />
