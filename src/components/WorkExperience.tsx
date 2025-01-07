@@ -22,7 +22,7 @@ const WorkExperience: React.FC = () => {
             </h2>
             <h3 className="text-gray-700 dark:text-gray-300">Honeywell</h3>
             <h4 className="text-gray-500 dark:text-gray-400">Mason, OH</h4>
-            <p className="text-gray-500 dark:text-gray-400">Expected January 2025 - May 2025</p>
+            <p className="text-gray-500 dark:text-gray-400">January 2025 - Present</p>
           </div>
         </div>
 
